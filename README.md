@@ -1,4 +1,4 @@
 # GrumpyTrumpyBackend
 HackMercedF2017
 
-![Screenshot](GrumpyTrump.jpg)
+![Screenshot](GrumpyTrumpy.jpg)
